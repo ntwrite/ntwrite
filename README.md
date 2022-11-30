@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm cam</h1>
-<h3 align="center">Security Operations Manager @ Snowplow.io</h3>
+<h3 align="center">Security Operations Manager @ Snowplow.io(https://snowplow.io)</h3>
 
 - 🔭 I’m currently working on [AwesomeKQL](https://detections.cylaris.org)
 
