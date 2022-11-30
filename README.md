@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm cam</h1>
 <h3 align="center">Security Operations Manager @ Snowplow.io</h3>
 
-- 🔭 I’m currently working on [AwesomeKQL](detections.cylaris.org)
+- 🔭 I’m currently working on [AwesomeKQL](https://detections.cylaris.org)
 
 - 🌱 I’m currently learning **Python**
 
