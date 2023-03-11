@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [AwesomeKQL](https://detections.cylaris.org)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Terraform :(**
 
 - 👨‍💻 All of my projects are available at [github.com/cylaris](github.com/cylaris)
 
