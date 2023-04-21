@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **1337cam@proton.me**
 
-- Recently built: [Supreme.sh Matrix Homeserver](https://matrix.supreme.sh)
+- Recently built: [Supreme.sh Matrix Homeserver](https://supreme.sh)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
