@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **security arch, detection eng/ir, automation**
 
-- 📫 How to reach me **1337cam@proton.me**
+- 📫 How to reach me **cam@supreme.sh**
 
 - Recently built: [Supreme.sh Matrix Homeserver](https://supreme.sh)
 
