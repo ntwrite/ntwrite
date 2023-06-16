@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **cam@supreme.sh**
 
-- Recently built: [Supreme.sh Matrix Homeserver](https://supreme.sh)
+- Recently built: [Supreme.sh Matrix Homeserver](https://supreme.sh/info)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
