@@ -2,11 +2,9 @@
 <h3 align="center">Security Operations Manager @ Snowplow.io https://snowplow.io</h3>
 
 - 🔭 I’m currently working on
-      [AwesomeKQL](https://github.com/cylaris/awesomekql)
+      [AwesomeKQL](https://github.com/cylaris/awesomekql) and 
       [Malwares](https://github.com/ntwrite/malwares)
-- 🌱 I’m currently procrastinating about building a parameterized ARM template builder :'(
-
-- 👨‍💻 All of my projects are available at [github.com/cylaris](github.com/cylaris)
+- 🌱 I’m currently procrastinating about automating IOC dumps
 
 - 📝 I regularly write articles on [linkedin.com/in/cam-str](linkedin.com/in/cam-str)
 
