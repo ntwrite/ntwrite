@@ -7,4 +7,4 @@ Hello, welcome to my profile. If you'd like to contact me about any of my projec
 
 📩 cam@supreme.sh
 
-keybase: ntwrite
+*keybase*: ntwrite
