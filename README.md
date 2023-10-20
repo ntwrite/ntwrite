@@ -9,4 +9,4 @@ Hello, welcome to my profile. If you'd like to contact me about any of my projec
 
 🐾 45FD 9961 ECD1 D281 62BF F6CE 5A46 7A75 469A 2554
 
-[PGP Public Key]()
+[PGP Public Key](https://github.com/ntwrite/ntwrite/blob/main/publickey.asc)
