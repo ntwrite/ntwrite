@@ -5,6 +5,6 @@
 
 Hello, welcome to my profile. If you'd like to contact me about any of my projects or just a chat, drop me an email: 
 
-📩 cam@supreme.sh
-
-*keybase*: ntwrite
+📩 pr0@riseup.net
+🐾 45FD 9961 ECD1 D281 62BF F6CE 5A46 7A75 469A 2554
+[PGP Public Key]()
